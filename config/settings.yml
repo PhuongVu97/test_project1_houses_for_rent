@@ -1,0 +1,9 @@
+user:
+  name:
+    maximum: 50
+  email:
+    maximum: 100
+  phone:
+    maximum: 15
+  password:
+    minimum: 4
